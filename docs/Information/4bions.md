@@ -39,7 +39,7 @@ The remaining 21 Ancients are the weakest they have ever been. Humans are choosi
 
 The Ancients recognize their only hope for survival is to trust and reconnect  with the humans who have the Speaker’s Gift blood gene. These are the ancestors of the Speakers they first gifted when humans and Ancient’s bonded millennia ago.   
 
-### Names of revealed Ancients – 
+### Names of revealed Ancients
 
 SALQUA SALIS 
 
