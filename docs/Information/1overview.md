@@ -17,6 +17,7 @@ A Non-Fungible Token (NFT) would represent a unique string of letters that is ti
 ## To summarize and provide a more simple explanation in their simplest terms - 
 
 Fungible Tokens: Cryptocurrencies.
+
 Non-Fungible Tokens: Units of data that represents a digital asset tied to the blockchain. 
 
 ## Two Components
